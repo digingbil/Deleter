@@ -8,12 +8,10 @@ Ho to use it:
     
     /user/public\_html/my\_site/Deleter.php
     
-    `/user/public_html/my_site/Deleter.php`
 2.  And run it through the browser like
     
     https://mysite.com/Deleter.php
     
-    `https://mysite.com/Deleter.php`
 3.  Wait to finish loading and you’re done. The script will also “self-delete” as part of the process. So no security leftovers will be present on your site.
 
 ### Disclaimer:
